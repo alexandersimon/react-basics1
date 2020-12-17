@@ -1,3 +1,31 @@
+# Editor / IDE Setup
+
+In this course, I use Microsoﬞ Visual Studio Code which is a great free-to-use
+Web Development IDE.
+
+It’s a different IDE than Microsoft Visual Studio - don’t mix them up. The latter
+is NOT free and also not as suited for JavaScript Web Development as Visual
+Studio Code is.
+
+If you just installed VS Code, it’s going to look different than in my videos. That’s
+because I’m using a different theme and icons. In general, you can install a lot
+of free extensions for VS Code to customise it to your needs and requirements
+(both visually as well as from the functionality offered).
+
+- Theme: Dark+ (default theme, no extension required)
+- Icons: Material Icons (extension: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+Feel free to browse the extension marketplace for more useful extensions!
+
+# Summary of changes in pdf
+
+- Next-Gen JS Summary [(pdf)](./pdf/02_next-gen-js-summary.pdf)
+- React Components [(pdf)](./pdf/03_components.pdf)
+- Properties [(pdf)](./pdf/04_props-learning-card.pdf)
+- Properties and State [(pdf)](./pdf/05_props&state.pdf)
+- State Summary [(pdf)](./pdf/06_state-learning-card.pdf)
+- Lifecycle learning card [(pdf)](./pdf/07_lifecycle-creation-learning-card.pdf)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
